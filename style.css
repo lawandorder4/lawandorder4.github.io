@@ -204,6 +204,7 @@ input:checked + label .description {
     background-image: url(image/images.jpeg);
 }
 
+
     
     .container2{
       position: relative;
@@ -299,3 +300,10 @@ background-color: #3eb094;
       border-radius: 2px solid rgba(81, 211, 144, 0.816);
     }
     
+
+ hr{
+background-color: #223;
+
+border-radius: 43px;
+ }
+
