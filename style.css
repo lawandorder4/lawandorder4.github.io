@@ -1,5 +1,6 @@
 body{
     background-color:#3eb094;
+    background-image:url("image/back3.png");
 }
      ul{
         margin: 0;
@@ -18,7 +19,7 @@ body{
         position: relative;
         float: left;
         display: flex;
-        color: #8fdbc4;
+        color: #fcfffe;
         text-align: center;
         padding: 14px 20px;
         text-decoration: none;
@@ -28,7 +29,7 @@ body{
       
       
       .navbar a:hover {
-        background-color: rgb(118, 231, 235);
+        background-color: rgb(238, 246, 246);
         color: #333;
       }
       
@@ -36,10 +37,11 @@ body{
       .navbar a {
         transition: background-color 2.5s ease;
       }
-body{ background-image: url('pattern.png');
+body{ 
+  background-image: url('pattern.png';
     background-repeat: repeat}
     body {
-        background-color: #0b453d;
+        background-color: #ffffff;
     }
     
   .container2{
@@ -106,3 +108,11 @@ body{ background-image: url('pattern.png');
     font-weight: 300;
     
   }
+
+
+  .flavors-regular {
+    font-family: "Flavors", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
